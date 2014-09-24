@@ -1,0 +1,26 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/d-current-time/issues"
+  },
+  "description": "A Derby JS component for keeping track of the current time.",
+  "keywords": [
+    "component",
+    "current",
+    "derby",
+    "derby-component",
+    "time"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "d-current-time",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/d-current-time.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
