@@ -6,8 +6,8 @@ A [Derby JS](http://derbyjs.com) component for keeping track of the current time
 Motivation
 ----------
 
-This is useful for formatting timestamps relative to a reference time.
-For example, showing the times: "About a minute ago" and "2 days ago".
+This is useful for formatting timestamps relative to a reference time.  
+For example, showing the times: *"About a minute ago"* and *"2 days ago"*.
 
 Installation
 ------------
@@ -28,6 +28,7 @@ Associate your view with the component:
 
 Use the component:
 
+    <!-- update _page.currentTime every 10 seconds -->
     <current-time path="#root._page.currentTime" period="10000"></current-time>
 
 Options
